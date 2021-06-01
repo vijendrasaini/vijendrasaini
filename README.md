@@ -17,6 +17,11 @@ Hello people, I am an Indonesian person that currently learning how to code.
 * Sass
 * JavaScript
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanzasetia)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tools that I use to code on Android
 #### Text Editor
 * 🖥️[Acode - Powerful code editor][acode]
