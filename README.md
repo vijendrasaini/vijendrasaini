@@ -1,12 +1,36 @@
-👋 Hi, I’m @vanzasetia
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+### ✋ Hi, I'm Vanza Setia
 
-<!---
-vanzasetia/vanzasetia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Right now I'm learning JavaScript
+
+- 🚩 My goal is to become a MERN Stack developer
+- 📱 I am coding on my Android since I don't have laptop or computer
+- 📝 I use [Acode][acode] and [Spck Editor][spckEditor] as my code editor
+- ⚙️ Right now I'm creating a Cookie Clicker game with Vanilla JavaScript!
+
+## Contact Me!
+* 📧 venusbumi2@gmail.com
+
+## Languages that I understand
+* HTML
+* CSS
+* Sass
+* JavaScript
+
+## Tools that I use to code on Android
+#### Text Editor
+* 🖥️[Acode - Powerful code editor][acode]
+
+  Powerful, light, and easy to use.
+
+* 🖥️[Spck Code Editor / JS Sandbox / Git Client][spckEditor]
+
+  I use this editor when I learn JavaScript
+  
+### Terminal
+* 💻[Termux][termux]
+
+  I use this to use npm and git
+
+[acode]: https://play.google.com/store/apps/details?id=com.foxdebug.acodefree
+[spckEditor]: https://play.google.com/store/apps/details?id=io.spck
+[termux]: https://play.google.com/store/apps/details?id=com.termux
