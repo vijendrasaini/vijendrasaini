@@ -1,4 +1,5 @@
 ### ✋ Hi, I'm Vanza Setia
+Hello people, I am an Indonesian person that currently learning how to code.
 
 ## Right now I'm learning JavaScript
 
