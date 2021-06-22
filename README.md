@@ -1,7 +1,8 @@
 ### ✋ Hi, I'm Vanza Setia
 
-- 📱 I am coding on my Android since I don't have laptop or computer
-- 📝 I use [Acode][acode] as my code editor
+- 📱 I am coding on my Android since I don't have laptop or computer.
+- 📝 I use [Acode][acode] as my code editor.
+- ⌚ I am currently spending most of my time on completing Frontend Mentor Challenge.
 
 ## Contact Me!
 * 📧 venusbumi2@gmail.com
