@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/vanza-setia.jpg" style="width: 80px;">
+  <img src="./images/vanzasetia.jpg" style="width: 200px;">
   <h2 align="center">Vanza Setia</h2>
 </p>
 
