@@ -27,7 +27,7 @@ I code on my Android phone. The reason for that's because I don't have any lapto
 </p>
 
 ### 🤔 How much languages that you currently understand to create a website?
-Now, I understand HTML, CSS, Sass, and the fundamentals of Vanilla JavaScript.
+Currently, I understand HTML, CSS, Sass, and the fundamentals of Vanilla JavaScript.
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="70"/></a>
