@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/vanza-setia.jpg" style="border-radius: 10%; width: 100px;">
+  <img src="./images/vanza-setia.jpg" style="width: 80px;">
   <h2 align="center">Vanza Setia</h2>
 </p>
 
@@ -23,7 +23,7 @@ I like helping people on [Frontend Mentor platform]() by giving them feedbacks f
 I code on my Android phone. The reason for that's because I don't have any laptop or desktop.
 
 <p>
-  <a href="https://acode.foxdebug.com/" target="_blank"><img src="./images/acode.png" width="auto" height="70" alt="I use Acode as my text editor."></a> &nbsp;
+  <a href="https://acode.foxdebug.com/" target="_blank"><img src="./images/Acode.png" width="auto" height="70" alt="I use Acode as my text editor."></a> &nbsp;
   <a href="https://termux.com/" target="_blank"><img src="./images/termux.png" width="auto" height="60" alt="I use Termux as my terminal or command line."></a>
 </p>
 
