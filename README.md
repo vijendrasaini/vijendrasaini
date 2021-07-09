@@ -46,7 +46,7 @@ Well right now, I'm learning Vanilla JavaScript and Git.
 ### 😀 How can I connect with you?
 You can email me through <a href="mailto: venusbumi2@gmail.com">Gmail</a> or you can chat with me on [Twitter](https://twitter.com/vanzasetia). You can talk to me about coding in general or other things that you want me to know about.
 
-I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.slack.com), you can talk with me there too.
+I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.slack.com), you can chat with me there too.
 
 <p align="left">
   <a href="mailto:venusbumi2@gmail.com" target="_blank"><img src="./images/gmail.png" alt="You can contact me through email." width="auto" height="60px"></a> &nbsp;
