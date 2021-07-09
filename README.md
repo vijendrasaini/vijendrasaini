@@ -1,7 +1,6 @@
 ## 👋 Hello Everyone!
 
 <img align="left" src="https://komarev.com/ghpvc/?username=vanzasetia&label=Profile%20views&color=0e75b6&style=flat">
-<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=vanzasetia">
 <br>
 <p align="left"> 
   <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a> 
