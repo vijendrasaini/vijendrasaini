@@ -1,8 +1,7 @@
 ## 👋 Hello Everyone!
 
-<img align="left" src="https://komarev.com/ghpvc/?username=vanzasetia&label=Profile%20views&color=0e75b6&style=flat">
-<br>
-<p align="left"> 
+<p align="left">
+  <img align="left" src="https://komarev.com/ghpvc/?username=vanzasetia&label=Profile%20views&color=0e75b6&style=flat"> &nbsp;
   <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a> 
   <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vanza Setia-informational?style=for-the-badge&logo=frontendmentor" alt="My frontendmentor profile." /></a> 
   <a href="https://frontendmentor.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-Vanza Setia-yellow?style=for-the-badge&logo=slack" alt="Slack community." /></a> 
