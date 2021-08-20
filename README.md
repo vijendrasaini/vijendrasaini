@@ -60,3 +60,6 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=vanzasetia&show_icons=true&locale=en&layout=compact)
 
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=vanzasetia&)
+
+### 😊 Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanzasetia" alt="vanzasetia" /></a> </p>
