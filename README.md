@@ -1,31 +1,29 @@
 # 👋 Hello Everyone!
 
+![banner](./images/banner.jpg)
+
 <p align="left">
   <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a> 
   <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vanza Setia-informational?style=for-the-badge&logo=frontendmentor" alt="My frontendmentor profile." /></a> 
-  <a href="https://frontendmentor.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-Vanza Setia-yellow?style=for-the-badge&logo=slack" alt="Slack community." /></a> 
+  <a href="https://frontendmentor.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-Vanza Setia-yellow?style=for-the-badge&logo=slack" alt="Slack community." /></a>
+  <img alt="GitHub" src="https://img.shields.io/github/license/vanzasetia/vanzasetia?color=brightgreen&style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="./images/vanzasetia.jpg" style="width: 200px;">
-  <h2 align="center">Vanza Setia</h2>
-</p>
+## 🤔 Who are you?
+My name is Vanza Setia. I'm a beginner web developer that like doing coding challenges and helping people on Frontend Mentor by giving them valuable feedback.
 
-### 🤔 Who are you?
-My name is **Vanza Setia**. I am an **Indonesian**. I currently working on Frontend Mentor HTML and CSS challenges only. I also use Sass to make me work easily with CSS.
+I love building things with code, especially a website. When, I was a kid I really wish that I could make something live on the internet. Now, here I'm 😁.
 
-I like helping people on [Frontend Mentor platform]() by giving them feedbacks from my knowledge.
-
-### 😎 A Little Facts On How I Code
-I code on my Android phone. The reason for that's because I don't have any laptop or desktop.
+## 😎 A Little Facts On How I Code
+I code on my Android phone. It's surprising that I can learn coding on my phone. Someday, I will code on laptop.
 
 <p>
-  <a href="https://acode.foxdebug.com/" target="_blank"><img src="./images/Acode.png" width="auto" height="70" alt="I use Acode as my text editor."></a> &nbsp;
-  <a href="https://termux.com/" target="_blank"><img src="./images/termux.png" width="auto" height="60" alt="I use Termux as my terminal or command line."></a>
+  <a href="https://acode.foxdebug.com/" target="_blank"><img src="./images/Acode.png" width="auto" height="70" alt="Acode - Code Editor"></a> &nbsp;
+  <a href="https://termux.com/" target="_blank"><img src="./images/termux.png" width="auto" height="60" alt="Termux - Command Line"></a>
 </p>
 
-### 🤔 How much languages that you currently understand to create a website?
-Currently, I understand HTML, CSS, Sass, and the fundamentals of Vanilla JavaScript.
+## 😎 Skills
+Currently, I have HTML, CSS, Sass, and the fundamentals of Vanilla JavaScript under my belt. I also understand about basic linux and git command.
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="70"/></a>
@@ -33,16 +31,18 @@ Currently, I understand HTML, CSS, Sass, and the fundamentals of Vanilla JavaScr
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="auto" height="70"/></a>
 </p>
 
-### 🤔 What are you currently learning?
-Well right now, I'm learning Vanilla JavaScript and Git.
+## 🤔 What are you currently learning?
+Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web Accessibility, and much more.
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70"/></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="70"/></a>
+  <img src="./images/seo.png" alt="seo" width="auto" height="70"/>
+  <img src="./images/web-accessibility.png" alt="web accessibility" width="auto" height="70"/>
 </p>
 
-### 😀 How can I connect with you?
-You can email me through <a href="mailto: venusbumi2@gmail.com">Gmail</a> or you can chat with me on [Twitter](https://twitter.com/vanzasetia). You can talk to me about coding in general or other things that you want me to know about.
+## 😀 How can I connect with you?
+You can email me through <a href="mailto: venusbumi2@gmail.com">Gmail</a> or you can chat with me on [Twitter](https://twitter.com/vanzasetia). You can talk to me about coding in general or ask me anything.
 
 I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.slack.com), you can chat with me there too.
 
