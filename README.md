@@ -52,6 +52,10 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
   <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="./images/slack.png" alt="You can also chat with me on Slack." height="60px"></a>
 </p>
 
+## 🙌 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 ### ☺️ GitHub Stats
