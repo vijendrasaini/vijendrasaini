@@ -54,6 +54,8 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 
 ## 🙌 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Random Quote Generator](https://community.codenewbie.org/vanzasetia/random-quote-generator-a8o)
+- [Relative vs Absolute File Paths](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n)
 <!-- BLOG-POST-LIST:END -->
 
 
