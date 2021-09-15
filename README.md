@@ -1,4 +1,4 @@
-# 👋 Hello Everyone!
+# :wave: Hello Everyone!
 
 ![banner](./images/banner.jpg)
 
