@@ -10,12 +10,12 @@
 </p>
 
 ## Who are you?
-My name is Vanza Setia. I'm a beginner web developer that like doing coding challenges and helping people on Frontend Mentor by giving them valuable feedback.
+My name is Vanza Setia. I'm a beginner web developer that like doing coding challenges and helping people on [Frontend Mentor](https://www.frontendmentor.io/profile/vanzasetia) by giving them valuable feedback.
 
 I love building things with code, especially a website. When, I was a kid I really wish that I could make something live on the internet. Now, here I'm on GitHub and [other platform too](https://linktr.ee/vanzasetia).
 
 ## A Little Facts On How I Code
-I code on my Android phone. It's surprising that I can learn coding on my phone. Someday, I will code on laptop.
+I code on my Android phone. It's surprising that I can learn coding on my phone. One day, I will code on laptop.
 
 <p>
   <a href="https://acode.foxdebug.com/" target="_blank"><img src="./images/Acode.png" width="auto" height="70" alt="Acode - Code Editor"></a> &nbsp;
