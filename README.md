@@ -52,7 +52,7 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
   <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="./images/slack.png" alt="You can also chat with me on Slack." height="60px"></a>
 </p>
 
-## Blog posts
+## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Random Quote Generator](https://community.codenewbie.org/vanzasetia/random-quote-generator-a8o)
 - [Relative vs Absolute File Paths](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n)
