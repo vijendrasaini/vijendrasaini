@@ -54,6 +54,7 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 
 ## :book: Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recursion In Programming (Simplified Version)](https://community.codenewbie.org/vanzasetia/recursion-in-programming-simplified-version-2792)
 - [Random Quote Generator](https://community.codenewbie.org/vanzasetia/random-quote-generator-a8o)
 - [Relative vs Absolute File Paths](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n)
 <!-- BLOG-POST-LIST:END -->
