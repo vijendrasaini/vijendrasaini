@@ -72,6 +72,6 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanzasetia" alt="vanzasetia" /></a> </p>
 
-## :blush: Thank You For Reading Me!
+## :blush: Thank You For Reading The `README`!
 
 ![Thank you](./images/thank-you.gif)
