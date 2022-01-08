@@ -29,7 +29,7 @@ Besides coding, I also enjoy reading comics and playing video games. :smile:
 - [How I handle the Accordion Functionality [Walkthrough]](https://community.codenewbie.org/vanzasetia/how-i-handle-the-accordion-functionality-walkthrough-29n0)
 - [Recursion In Programming &lpar;Simplified Version&rpar;](https://community.codenewbie.org/vanzasetia/recursion-in-programming-simplified-version-2792)
 - [Random Quote Generator](https://community.codenewbie.org/vanzasetia/random-quote-generator-a8o)
-- [Relative vs Absolute File Paths](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n)
+- [Relative vs Absolute | File Path](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
