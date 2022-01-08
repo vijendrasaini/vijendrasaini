@@ -26,7 +26,6 @@ Besides coding, I also enjoy reading comics and playing video games. :smile:
 ## :book: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How I handle the Accordion Functionality [Walkthrough]](https://community.codenewbie.org/vanzasetia/how-i-handle-the-accordion-functionality-walkthrough-29n0)
 - [Recursion In Programming &lpar;Simplified Version&rpar;](https://community.codenewbie.org/vanzasetia/recursion-in-programming-simplified-version-2792)
 - [Random Quote Generator](https://community.codenewbie.org/vanzasetia/random-quote-generator-a8o)
