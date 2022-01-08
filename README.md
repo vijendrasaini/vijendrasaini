@@ -36,8 +36,8 @@ Besides coding, I also enjoy reading comics and playing video games. :smile:
   </td>
   <td width="30%" valign="center">
 
-<a href="https://community.codenewbie.org/" target="_blank" rel="noopener" align="center">
-<img src="./images/codenewbie.png" alt="">
+<a href="https://community.codenewbie.org/" target="_blank" rel="noopener" align="right">
+<img src="./images/codenewbie.png" alt="" width="500px">
 </a>
 
   </td>
