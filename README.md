@@ -1,3 +1,5 @@
+> Doesn't look good on your device? Try to [see another of this `README`](./).
+
 ![I teach myself to become a Frontend Web Developer](./images/banner.png)
 
 <p align="left">
