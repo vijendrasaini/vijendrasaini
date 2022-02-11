@@ -1,6 +1,6 @@
 > Doesn't look good on your device? Try to [see another of this `README`](./README%20MOBILE.md).
 
-![I teach myself to become a Frontend Web Developer](./images/banner.png)
+![I teach myself to become a Frontend Web Developer](./images/banner.jpg)
 
 <p align="left">
   <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a> 
