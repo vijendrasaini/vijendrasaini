@@ -9,7 +9,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/vanzasetia/vanzasetia?color=green&style=for-the-badge">
 </p>
 
-# :wave: Hello Everyone! Take as much time as you want!
+# Hello Everyone! Take as much time as you want!
 
 There's no time limit, feel free to see my profile as long as you want. Anyway, I'm Vanza Setia, a passionate teenager (18 years old) on frontend web development who likes following best practices when doing Frontend Mentor projects and helping people by giving them feedback. **I have done over 15 projects and given over 300 feedback on Frontend Mentor**.
 
@@ -23,7 +23,7 @@ Besides coding, I also enjoy reading comics and playing video games. :smile:
   <tr >
   <td width="60%" valign="top">
 
-## :book: Blog Posts
+## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [The Ultimate Guide To Code On Android : It&#39;s Possible!](https://community.codenewbie.org/vanzasetia/the-ultimate-guide-to-code-on-android-its-possible-5flo)
@@ -44,7 +44,7 @@ Besides coding, I also enjoy reading comics and playing video games. :smile:
   </tr>
 </table>
 
-## :bar_chart: GitHub Stats
+## GitHub Stats
 
 |                                                                                                           |                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -54,14 +54,14 @@ Besides coding, I also enjoy reading comics and playing video games. :smile:
   <tr>
   <td width="50%" valign="top">
 
-## :raised_hands: Let's Learn Together!
+## Let's Learn Together!
 
 Feel free to ask me any questions about front-end web development by email (<a href="mailto:venusbumi2@gmail.com">venusbumi2@gmail.com</a>). As simple as that!
 
   </td>
   <td width="50%" valign="top">
 
-## :question: It's not perfect, isn't it?
+## It's not perfect, isn't it?
 
 **For me, improvements are improvements.** So, if you have any suggestions or anything that can improve this `README`, feel free to create a pull request or open an issue.
 
