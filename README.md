@@ -1,4 +1,4 @@
-![I teach myself to become a Full Stack Web Developer](./images/banner.jpg)
+<!-- ![I teach myself to become a Full Stack Web Developer](./images/banner.jpg) -->
 
 # Hello Everyone! Have a wonderful reading experience!
 
