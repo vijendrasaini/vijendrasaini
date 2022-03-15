@@ -30,9 +30,9 @@ In addition to coding, I enjoy reading self help books and learning about new te
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijendrasaini&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Vijendra Saini" /></p>
 
-## :earth_asia: Connect with me...
+<h2 align="center">🌏Connect with me...</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/ervijendrasaini/">
     <img
       src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
