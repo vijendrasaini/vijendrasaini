@@ -3,6 +3,7 @@
 <h3 align="left">
 A passionate, focused, and enthusiastic Full-stack web developer. A self-starter and an effective team player implementing his skills to build meaningful products. Looking forward to boosting skills and gaining experience in a growth-oriented organization.
 <br/>
+<br>
 In addition to coding, I enjoy reading self help books and learning about new technology over the Internet.
 </h3>
 <hr />
