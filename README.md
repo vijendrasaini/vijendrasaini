@@ -6,7 +6,7 @@ A passionate, focused, and enthusiastic Full-stack web developer. A self-starter
 <br>
 In addition to coding, I enjoy reading self help books and learning about new technologies over the Internet.
 </h3>
-
+<br/>
 <h2 align="center">Languages and tools 🧰</h2>
 
 <div align="center">
