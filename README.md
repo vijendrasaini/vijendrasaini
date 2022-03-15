@@ -6,9 +6,8 @@ A passionate, focused, and enthusiastic Full-stack web developer. A self-starter
 <br>
 In addition to coding, I enjoy reading self help books and learning about new technologies over the Internet.
 </h3>
-<hr />
 
-<h2 align="center">Languages and tools: 🧰</h2>
+<h2 align="center">Languages and tools 🧰</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -23,7 +22,7 @@ In addition to coding, I enjoy reading self help books and learning about new te
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
-<h3 align="center"> 📊 My Github Stats</h3>
+<h3 align="center">My Github Stats 📊</h3>
 <a href="https://github.com/vijendrasaini/github-readme-activity-graph"><img alt="Vijendra-Saini-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vijendrasaini&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijendrasaini&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Vijendra Saini" /></p>
 
@@ -31,6 +30,6 @@ In addition to coding, I enjoy reading self help books and learning about new te
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijendrasaini&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Vijendra Saini" /></p>
 
-<hr />
+
 
 
