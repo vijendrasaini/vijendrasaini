@@ -33,21 +33,4 @@ In addition to coding, I enjoy reading self help books and learning about new te
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijendrasaini&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish Kumar" /> </p>
 
 <p align=""> <a href="https://twitter.com/Nitishk60487582" target="blank"><img src="https://img.shields.io/twitter/follow/Nitishk60487582?logo=twitter&style=for-the-badge" alt="Nitishk60487582"/></a></p>
-<!-- <table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
 
-## Let's Learn Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:venusbumi2@gmail.com">contact me through email</a> me.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**For me, improvements are improvements.** So, if you have any ideas or suggestions for how to improve this, please submit a pull request or open an issue.
-
-  </td>
-  </tr>
-</table> -->
