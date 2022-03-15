@@ -20,17 +20,17 @@ In addition to coding, I enjoy reading self help books and learning about new te
 
 
 <h3> 📊 My Github Stats</h3>
-<a href="https://github.com/vijendrasaini/github-readme-activity-graph"><img alt="Nitish-Kumar-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vijendrasaini&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijendrasaini&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
+<a href="https://github.com/vijendrasaini/github-readme-activity-graph"><img alt="Vijendra-Saini-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vijendrasaini&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijendrasaini&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Vijendra Saini" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijendrasaini&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijendrasaini&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Vijendra Saini" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijendrasaini&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijendrasaini&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Vijendra Saini" /></p>
 
 <hr />
 
 <h3> Views and Followers </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijendrasaini&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish Kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijendrasaini&label=Profile%20views&color=0e75b6&style=flat" alt="Vijendra Saini" /> </p>
 
-<p align=""> <a href="https://twitter.com/Nitishk60487582" target="blank"><img src="https://img.shields.io/twitter/follow/Nitishk60487582?logo=twitter&style=for-the-badge" alt="Nitishk60487582"/></a></p>
+<!-- <p align=""> <a href="https://twitter.com/Nitishk60487582" target="blank"><img src="https://img.shields.io/twitter/follow/Nitishk60487582?logo=twitter&style=for-the-badge" alt="Nitishk60487582"/></a></p> -->
 
