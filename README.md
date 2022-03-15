@@ -33,7 +33,7 @@ In addition to coding, I enjoy reading self help books and learning about new te
 ## :earth_asia: Connect with me...
 
 <p>
-  <a href="https://www.linkedin.com/in/ervijendra/">
+  <a href="https://www.linkedin.com/in/ervijendrasaini/">
     <img
       src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
