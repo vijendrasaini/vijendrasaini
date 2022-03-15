@@ -1,23 +1,19 @@
 > Doesn't look good on your device? Try to [see another version of this `README`](./README%20MOBILE.md).
 
-![I teach myself to become a Frontend Web Developer](./images/banner.jpg)
+![I teach myself to become a Full Stack Web Developer](./images/banner.jpg)
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a> 
   <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vanza Setia-informational?style=for-the-badge&logo=frontendmentor" alt="My frontendmentor profile." /></a> 
   <a href="https://linktr.ee/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Linktree-Vanza Setia-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
   <img alt="GitHub" src="https://img.shields.io/github/license/vanzasetia/vanzasetia?color=green&style=for-the-badge">
-</p>
+</p> -->
 
 # Hello Everyone! Have a wonderful reading experience!
 
-I'm Vanza Setia, a passionate teenager (18 years old) on frontend web development who likes following best practices when doing Frontend Mentor projects and helping people by giving them feedback. **I have done [over 20 projects](https://www.frontendmentor.io/profile/vanzasetia/solutions) and provided [over 400 feedback](https://www.frontendmentor.io/profile/vanzasetia/comments) on Frontend Mentor**.
+A passionate, focused, and enthusiastic Full-stack web developer. A self-starter and an effective team player implementing his skills to build meaningful products. Looking forward to boosting skills and gaining experience in a growth-oriented organization.
 
-If you haven't already joined [Frontend Mentor](https://www.frontendmentor.io/), I strongly encourage you to do so. It's **free**, **beginner-friendly**, **and helps you show your skill**.
-
-My goal is to **work part-time as a Junior Frontend Web Developer in a company remotely**.
-
-In addition to coding, I enjoy reading novels and playing video games. :smile:
+In addition to coding, I enjoy reading self help books and learning about new technology over the Internet. :smile:
 
 <table style="border: none">
   <tr >
@@ -26,14 +22,15 @@ In addition to coding, I enjoy reading novels and playing video games. :smile:
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide To Code On Android : It&#39;s Possible!](https://community.codenewbie.org/vanzasetia/the-ultimate-guide-to-code-on-android-its-possible-5flo)
+
+<!-- - [The Ultimate Guide To Code On Android : It&#39;s Possible!](https://community.codenewbie.org/vanzasetia/the-ultimate-guide-to-code-on-android-its-possible-5flo)
 - [How I handle the Accordion Functionality [Walkthrough]](https://community.codenewbie.org/vanzasetia/how-i-handle-the-accordion-functionality-walkthrough-29n0)
 - [Recursion In Programming &lpar;Simplified Version&rpar;](https://community.codenewbie.org/vanzasetia/recursion-in-programming-simplified-version-2792)
 - [Random Quote Generator](https://community.codenewbie.org/vanzasetia/random-quote-generator-a8o)
-- [Relative vs Absolute | File Path](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n)
+- [Relative vs Absolute | File Path](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n) -->
 <!-- BLOG-POST-LIST:END -->
 
-  </td>
+  <!-- </td>
   <td width="30%" valign="center">
 
 <a href="https://community.codenewbie.org/" target="_blank" rel="noopener" align="right">
@@ -42,7 +39,7 @@ In addition to coding, I enjoy reading novels and playing video games. :smile:
 
   </td>
   </tr>
-</table>
+</table> -->
 
 ## GitHub Stats
 
