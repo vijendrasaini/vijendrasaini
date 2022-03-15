@@ -5,12 +5,6 @@ A passionate, focused, and enthusiastic Full-stack web developer. A self-starter
 
 In addition to coding, I enjoy reading self help books and learning about new technology over the Internet.
 </h3>
-
-<hr>
-
-
-
-
 <hr />
 
 <h3> 📊 My Github Stats</h3>
