@@ -45,7 +45,7 @@ In addition to coding, I enjoy reading self help books and learning about new te
 
 |                                                                                                           |                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=vanzasetia&show_icons=true&locale=en) | ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=vanzasetia&) |
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=vijendrasaini&show_icons=true&locale=en) | ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=vijendrasaini&) |
 
 <table style="border: none">
   <tr>
