@@ -20,6 +20,8 @@ In addition to coding, I enjoy reading self help books and learning about new te
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-593D88?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Django-593D88?style=for-the-badge&logo=django&logoColor=blue" />
 </div>
 
 <h2 align="center">My Github Stats 📊</h2>
