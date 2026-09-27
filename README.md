@@ -1,48 +1,109 @@
-<h1 align="center">Hi 👋, I'm Vijendra Saini</h1>
+# Hi, I'm Vijendra Saini 👋
 
-<h4 align="left">
-A passionate, focused, and enthusiastic Full-stack web developer. A self-starter and an effective team player implementing his skills to build meaningful products. Looking forward to boosting skills and gaining experience in a growth-oriented organization.
-<br/>
-<br>
-In addition to coding, I enjoy reading self help books and learning about new technologies over the Internet.
-</h3>
-<br/>
-<h2 align="center">Languages and tools 🧰</h2>
+<p align="left">
+  <strong>Senior Backend Software Engineer (SDE 2)</strong> specializing in <strong>Java 21</strong>, <strong>Spring Boot 3</strong>, <strong>Distributed Systems</strong>, and <strong>Event-Driven Architecture (Apache Kafka)</strong>.
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-593D88?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Django-593D88?style=for-the-badge&logo=django&logoColor=blue" />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ervijendrasaini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:vijendrasaini0101@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+</p>
 
-<h2 align="center">My Github Stats 📊</h2>
-<a href="https://github.com/vijendrasaini/github-readme-activity-graph"><img alt="Vijendra-Saini-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vijendrasaini&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijendrasaini&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Vijendra Saini" /></p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijendrasaini&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Vijendra Saini" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijendrasaini&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Vijendra Saini" /></p>
+Backend Software Engineer with **4+ years of production experience** engineering high-availability APIs, distributed backend systems, and automated data pipelines. Passionate about solving complex race conditions, maintaining strict mathematical invariants in financial ledgers, and building resilient event-driven systems that eliminate dual-write vulnerabilities.
 
-<h2 align="center">🌏Connect with me...</h2>
+- 🏢 **Current Role**: Software Development Engineer 2 (SDE 2) at **ANAROCK**
+- 🛡️ **Production Reliability**: **Zero P0 outages** over 2+ years of production platform operations
+- 🧠 **Algorithmic Foundation**: **450+ Data Structures & Algorithms** problems solved
+- 🏆 **Academic Honors**: **AIR 768** in IIT JAM Physics | **INSPIRE Fellow** (Top 1% nationwide by DST, Govt. of India)
+
+---
+
+### ⚡ Flagship Distributed Systems
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/vijendrasaini/flashledger">FlashLedger</a></h3>
+      <p><em>Distributed High-Throughput Booking & Double-Entry Financial Ledger Engine</em></p>
+      <div>
+        <img src="https://img.shields.io/badge/Java-21-orange.svg?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-3.4-brightgreen.svg?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Redis-Redisson-red.svg?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MySQL-8.0-blue.svg?style=flat-square"/>
+      </div>
+      <ul>
+        <li><strong>Distributed Concurrency</strong>: Eliminates overselling race conditions under high contention using <strong>Redisson Distributed Fair Locks</strong> with watchdog auto-renewal.</li>
+        <li><strong>Double-Entry Ledger</strong>: Enforces strict mathematical balance invariants (<code>&sum; Debits == &sum; Credits</code>) with zero balance drift across atomic operations.</li>
+        <li><strong>Idempotency Engine</strong>: Built a distributed <code>Idempotency-Key</code> engine serving cached booking responses in <strong>~4ms</strong>.</li>
+        <li><strong>Verification</strong>: Covered by <strong>14/14 automated integration tests</strong> simulating concurrent race conditions.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 <a href="https://github.com/vijendrasaini/pulsestream">PulseStream</a></h3>
+      <p><em>Distributed Event-Driven Microservices Platform with Transactional Outbox & Sagas</em></p>
+      <div>
+        <img src="https://img.shields.io/badge/Java-21-orange.svg?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Apache%20Kafka-3.7%20KRaft-red.svg?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Spring%20Kafka-3.3-green.svg?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Saga-Choreography-purple.svg?style=flat-square"/>
+      </div>
+      <ul>
+        <li><strong>Transactional Outbox</strong>: Eliminates dual-write vulnerabilities between MySQL and Kafka; guarantees at-least-once delivery with zero phantom events.</li>
+        <li><strong>Idempotent Consumers</strong>: Deduplicates event streams inside transactional boundaries, guaranteeing zero double-deductions.</li>
+        <li><strong>Non-Blocking DLQ</strong>: Isolates poison pills and handles transient failures via <code>@RetryableTopic</code> with exponential backoff without stalling main partitions.</li>
+        <li><strong>Choreographed Sagas</strong>: Coordinates distributed rollbacks and compensating refunds across isolated databases.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏢 <a href="https://github.com/vijendrasaini/estateflow-backend">EstateFlow Backend</a></h3>
+      <p><em>Enterprise High-Scale Residential & Community Management Platform (ANAROCK Platform Clean-Room Port)</em></p>
+      <div>
+        <img src="https://img.shields.io/badge/Java-17-orange.svg?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-3.3-brightgreen.svg?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Spring%20Security-6-green.svg?style=flat-square"/>
+        <img src="https://img.shields.io/badge/JWT-Stateless-blue.svg?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Flyway-Migrations-red.svg?style=flat-square"/>
+      </div>
+      <ul>
+        <li>Clean-room architectural port of high-volume UAE community platforms (Samana & Taraf) serving thousands of residential units.</li>
+        <li>Engineered decoupled microservices with stateless HMAC-SHA256 JWT auth, role-based access control (RBAC), and multi-tenant resident portals.</li>
+        <li>Optimized MySQL relational schemas and implemented Redis cache-aside layers to eliminate query bottlenecks.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Core Technical Skills
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Java 21 LTS, SQL, Bash |
+| **Backend & Frameworks** | Spring Boot 3, Spring Data JPA, Spring Security 6, Spring Kafka, Hibernate |
+| **Distributed Systems & Caching** | Apache Kafka (KRaft mode), Redis (Redisson Fair Locks), HikariCP Connection Pool |
+| **Databases & Migrations** | MySQL 8, PostgreSQL, Flyway Database Migrations |
+| **Distributed Architecture** | Event-Driven Architecture (EDA), Transactional Outbox Pattern, Choreographed Sagas, Idempotent Consumers, Double-Entry Accounting |
+| **Testing & Tooling** | JUnit 5, Mockito, MockMvc, Testcontainers, Docker, Docker Compose, Git, Postman |
+
+---
+
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ervijendrasaini/">
-    <img
-      src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="mailto:vijendrasaini0101@gmail.com">
-    <img
-      src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vijendrasaini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vijendra's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijendrasaini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+<p align="center">
+  <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler</em>
 </p>
