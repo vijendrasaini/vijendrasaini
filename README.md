@@ -16,7 +16,7 @@
 
 Backend Software Engineer with **4+ years of production experience** engineering high-availability APIs, distributed backend systems, and automated data pipelines. Passionate about solving complex race conditions, maintaining strict mathematical invariants in financial ledgers, and building resilient event-driven systems that eliminate dual-write vulnerabilities.
 
-- 🏢 **Current Role**: Software Development Engineer 2 (SDE 2) at **ANAROCK**
+- 🏢 **Current Role**: Software Development Engineer 2 (SDE 2)
 - 🛡️ **Production Reliability**: **Zero P0 outages** over 2+ years of production platform operations
 - 🧠 **Algorithmic Foundation**: **450+ Data Structures & Algorithms** problems solved
 - 🏆 **Academic Honors**: **AIR 768** in IIT JAM Physics | **INSPIRE Fellow** (Top 1% nationwide by DST, Govt. of India)
@@ -63,7 +63,7 @@ Backend Software Engineer with **4+ years of production experience** engineering
   <tr>
     <td colspan="2" valign="top">
       <h3>🏢 <a href="https://github.com/vijendrasaini/estateflow-backend">EstateFlow Backend</a></h3>
-      <p><em>Enterprise High-Scale Residential & Community Management Platform (ANAROCK Platform Clean-Room Port)</em></p>
+      <p><em>Enterprise High-Scale Residential & Multi-Tenant Community Management Platform</em></p>
       <div>
         <img src="https://img.shields.io/badge/Java-17-orange.svg?style=flat-square"/>
         <img src="https://img.shields.io/badge/Spring%20Boot-3.3-brightgreen.svg?style=flat-square"/>
@@ -72,7 +72,7 @@ Backend Software Engineer with **4+ years of production experience** engineering
         <img src="https://img.shields.io/badge/Flyway-Migrations-red.svg?style=flat-square"/>
       </div>
       <ul>
-        <li>Clean-room architectural port of high-volume UAE community platforms (Samana & Taraf) serving thousands of residential units.</li>
+        <li>Enterprise community platform engineered for high-density multi-tenant residential properties serving thousands of residential units.</li>
         <li>Engineered decoupled microservices with stateless HMAC-SHA256 JWT auth, role-based access control (RBAC), and multi-tenant resident portals.</li>
         <li>Optimized MySQL relational schemas and implemented Redis cache-aside layers to eliminate query bottlenecks.</li>
       </ul>
