@@ -18,7 +18,7 @@ Backend Software Engineer with **4+ years of production experience** engineering
 
 - 🏢 **Current Role**: Software Development Engineer 2 (SDE 2) @ ANAROCK
 - 🛡️ **Production Reliability**: **Zero P0 outages** over 2+ years of production platform operations
-- 🧠 **Algorithmic Foundation**: **450+ Data Structures & Algorithms** problems solved
+- 🧠 **Algorithmic Foundation**: Strong foundation in **Data Structures & Algorithms (DSA)** and Low-Level Design (LLD)
 - 🏆 **Academic Honors**: **AIR 768** in IIT JAM Physics | **INSPIRE Fellow** (Top 1% nationwide by DST, Govt. of India)
 
 ---
