@@ -1,7 +1,7 @@
 # Hi, I'm Vijendra Saini 👋
 
 <p align="left">
-  <strong>Senior Backend Software Engineer (SDE 2)</strong> specializing in <strong>Java 21</strong>, <strong>Spring Boot 3</strong>, <strong>Distributed Systems</strong>, and <strong>Event-Driven Architecture (Apache Kafka)</strong>.
+  <strong>Backend Software Engineer (SDE 2)</strong> [Promoted from SDE 1 @ ANAROCK] specializing in <strong>Java 21</strong>, <strong>Spring Boot 3</strong>, <strong>Distributed Systems</strong>, and <strong>Event-Driven Architecture (Apache Kafka)</strong>.
 </p>
 
 <p align="left">
@@ -14,12 +14,12 @@
 
 ### 🚀 About Me
 
-Backend Software Engineer with **4+ years of production experience** engineering high-availability APIs, distributed backend systems, and automated data pipelines. Passionate about solving complex race conditions, maintaining strict mathematical invariants in financial ledgers, and building resilient event-driven systems that eliminate dual-write vulnerabilities.
+Backend Software Engineer with **4+ years of production experience** designing, building, and operating RESTful APIs, automated batch data pipelines, and distributed event-driven systems. Promoted from SDE 1 to SDE 2 at **ANAROCK**. Passionate about solving complex race conditions, maintaining strict mathematical invariants in financial ledgers, and building resilient event-driven microservices.
 
-- 🏢 **Current Role**: Software Development Engineer 2 (SDE 2) @ ANAROCK
-- 🛡️ **Production Reliability**: **Zero P0 outages** over 2+ years of production platform operations
+- 🏢 **Current Role**: Software Development Engineer 2 (SDE 2) @ ANAROCK [Promoted from SDE 1]
+- 🛡️ **Production Reliability**: **Zero P0 outages** over 2+ years of production platform operations (DLF luxury communities with 99.9% availability)
 - 🧠 **Algorithmic Foundation**: Strong foundation in **Data Structures & Algorithms (DSA)** and Low-Level Design (LLD)
-- 🏆 **Academic Honors**: **AIR 768** in IIT JAM Physics | **INSPIRE Fellow** (Top 1% nationwide by DST, Govt. of India)
+- 🏆 **Academic Honors**: **AIR 768** in IIT JAM Physics | **INSPIRE Scholar** (Top 1% nationwide by DST, Govt. of India)
 
 ---
 
@@ -37,9 +37,9 @@ Backend Software Engineer with **4+ years of production experience** engineering
         <img src="https://img.shields.io/badge/MySQL-9.0-blue.svg?style=flat-square"/>
       </div>
       <ul>
-        <li><strong>Distributed Concurrency</strong>: Eliminates overselling race conditions under concurrent load using <strong>Redisson Distributed Fair Locks</strong> with watchdog auto-renewal.</li>
-        <li><strong>Double-Entry Ledger</strong>: Enforces strict mathematical balance invariants (<code>&sum; Debits == &sum; Credits</code>) with zero balance drift across atomic operations.</li>
-        <li><strong>Idempotency Engine</strong>: Built a distributed <code>Idempotency-Key</code> engine serving cached booking responses in <strong>~4ms</strong>.</li>
+        <li><strong>Distributed Concurrency</strong>: Prevents inventory overselling race conditions under concurrent load using <strong>Redisson Fair Locks</strong> with watchdog auto-renewal (0 oversold units).</li>
+        <li><strong>Double-Entry Ledger</strong>: Enforces strict mathematical balance parity (<code>&sum; Debits == &sum; Credits</code>) with zero balance drift across atomic operations.</li>
+        <li><strong>Idempotency Engine</strong>: Built a distributed <code>Idempotency-Key</code> engine in Redis serving cached booking responses in <strong>under 4ms</strong>.</li>
         <li><strong>Verification</strong>: Covered by <strong>11/11 automated integration tests</strong> simulating concurrent race conditions.</li>
       </ul>
     </td>
@@ -53,7 +53,7 @@ Backend Software Engineer with **4+ years of production experience** engineering
         <img src="https://img.shields.io/badge/Testcontainers-1.20.4-black.svg?style=flat-square"/>
       </div>
       <ul>
-        <li><strong>Transactional Outbox</strong>: Eliminates dual-write vulnerabilities between MySQL and Kafka with an asynchronous polling relay (<code>acks=all</code>).</li>
+        <li><strong>Transactional Outbox</strong>: Prevents dual-write inconsistencies between MySQL and Kafka with an automated polling relay (<code>acks=all</code>).</li>
         <li><strong>Idempotent Consumers</strong>: Inbox pattern deduplication guarantees zero duplicate debits during network retries or consumer group rebalances.</li>
         <li><strong>Non-Blocking DLQ</strong>: Isolates poison pills via <code>@RetryableTopic</code> with exponential backoff and <code>.DLT</code> error routing.</li>
         <li><strong>Choreographed Sagas</strong>: Coordinates compensating refunds on inventory failure; resolves concurrent lost update anomalies using <strong>MySQL row-level pessimistic locking</strong>.</li>
@@ -73,9 +73,9 @@ Backend Software Engineer with **4+ years of production experience** engineering
       </div>
       <ul>
         <li>Enterprise community platform engineered for high-density multi-tenant residential properties serving thousands of residential units.</li>
-        <li>Engineered decoupled microservices with stateless HMAC-SHA256 JWT auth, role-based access control (RBAC), and multi-tenant resident portals.</li>
+        <li>Engineered decoupled services with stateless HMAC-SHA256 JWT auth, role-based access control (RBAC), and multi-tenant resident portals.</li>
         <li>Implemented pluggable Strategy pattern CRM Gateway routing via Spring <code>RestClient</code> with dynamic mock/Salesforce switching.</li>
-        <li>Optimized MySQL relational schemas and implemented Redis cache-aside layers to eliminate query bottlenecks.</li>
+        <li>Optimized MySQL relational schemas and implemented Redis caching to eliminate database query bottlenecks.</li>
       </ul>
     </td>
   </tr>
@@ -87,12 +87,11 @@ Backend Software Engineer with **4+ years of production experience** engineering
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Java 21 LTS (OOP, Streams, Concurrency), PHP, SQL (MySQL) |
-| **Backend & Frameworks** | Spring Boot 3, Spring Core (IoC/DI), Spring Data JPA, Spring Security 6, Spring Kafka, Hibernate, RESTful APIs |
-| **Distributed Systems & Caching** | Apache Kafka 4.x (KRaft mode), Redis (Redisson Fair Locks & Caching), HikariCP Connection Pool |
-| **Databases & Migrations** | MySQL 8/9, Flyway Database Migrations |
-| **Distributed Architecture** | Event-Driven Architecture (EDA), Transactional Outbox Pattern, Choreographed Sagas, Idempotent Consumers (Inbox), Double-Entry Accounting, BFF, Stateless JWT |
-| **Testing & Tooling** | JUnit 5, Mockito, MockMvc, Testcontainers, Docker, Docker Compose, Git, Postman, Maven |
+| **Languages** | Java 21 LTS (Streams, Multithreading, Concurrency, OOP), PHP, SQL (MySQL) |
+| **Backend & Frameworks** | Spring Boot 3, Spring Core (IoC/DI), Spring Data JPA/Hibernate, Spring Security 6, Spring AOP, RESTful APIs, Laravel |
+| **Distributed Systems & Messaging** | Apache Kafka 4.x (KRaft mode), Spring Kafka, Event-Driven Architecture (EDA), Transactional Outbox, Idempotent Consumers, Non-Blocking Retry/DLQ, Choreographed Sagas, Double-Entry Ledgers |
+| **Databases & Caching** | MySQL 8/9 (Indexing, Transactions, Row-Level Locking), Redis (Redisson Fair Locks & Caching), HikariCP, Flyway Database Migrations |
+| **Testing & Tools** | JUnit 5, Spring Boot Test, Testcontainers, Awaitility, Docker, Docker Compose, Git, GitHub, Maven, Postman |
 
 ---
 
