@@ -1,7 +1,7 @@
 # Hi, I'm Vijendra Saini 👋
 
 <p align="left">
-  <strong>Backend Software Engineer (SDE 2)</strong> [Promoted from SDE 1 @ ANAROCK] specializing in <strong>Java 21</strong>, <strong>Spring Boot 3</strong>, <strong>Distributed Systems</strong>, and <strong>Event-Driven Architecture (Apache Kafka)</strong>.
+  <strong>Backend Software Engineer (SDE 2) @ ANAROCK</strong> specializing in <strong>Java 21</strong>, <strong>Spring Boot 3</strong>, <strong>Distributed Systems</strong>, and <strong>Event-Driven Architecture (Apache Kafka)</strong>.
 </p>
 
 <p align="left">
@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 
-Backend Software Engineer with **4+ years of production experience** designing, building, and operating RESTful APIs, automated batch data pipelines, and distributed event-driven systems. Promoted from SDE 1 to SDE 2 at **ANAROCK**. Passionate about solving complex race conditions, maintaining strict mathematical invariants in financial ledgers, and building resilient event-driven microservices.
+Backend Software Engineer with **4+ years of production experience** designing, building, and operating RESTful APIs, automated batch data pipelines, and distributed event-driven systems at **ANAROCK**. Passionate about solving complex race conditions, maintaining strict mathematical invariants in financial ledgers, and building resilient event-driven microservices.
 
-- 🏢 **Current Role**: Software Development Engineer 2 (SDE 2) @ ANAROCK [Promoted from SDE 1]
+- 🏢 **Current Role**: Software Development Engineer 2 (SDE 2) @ ANAROCK
 - 🛡️ **Production Reliability**: **Zero P0 outages** over 2+ years of production platform operations (DLF luxury communities with 99.9% availability)
 - 🧠 **Algorithmic Foundation**: Strong foundation in **Data Structures & Algorithms (DSA)** and Low-Level Design (LLD)
 - 🏆 **Academic Honors**: **AIR 768** in IIT JAM Physics | **INSPIRE Scholar** (Top 1% nationwide by DST, Govt. of India)
