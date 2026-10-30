@@ -7,14 +7,14 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ervijendrasaini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vijendrasaini0101@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Bengaluru,_India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Backend Software Engineer with **4+ years of production experience** designing, building, and operating RESTful APIs, automated batch data pipelines, and distributed event-driven systems at **ANAROCK**. Passionate about solving complex race conditions, maintaining strict mathematical invariants in financial ledgers, and building resilient event-driven microservices.
+Backend Software Engineer with **4.5 years of production experience** designing, building, and operating RESTful APIs, automated batch data pipelines, and distributed event-driven systems at **ANAROCK**. Passionate about solving complex race conditions, maintaining strict mathematical invariants in financial ledgers, and building resilient event-driven microservices.
 
 - 🏢 **Current Role**: Software Development Engineer 2 (SDE 2) @ ANAROCK
 - 🛡️ **Production Reliability**: **Zero P0 outages** over 2+ years of production platform operations (DLF luxury communities with 99.9% availability)
